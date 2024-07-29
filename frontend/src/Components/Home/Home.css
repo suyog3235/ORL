@@ -1,0 +1,9 @@
+.codebg {
+  background: url("./coding.jpg");
+  background-position: bottom;
+  object-fit: contain;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  background-attachment: fixed;
+}
